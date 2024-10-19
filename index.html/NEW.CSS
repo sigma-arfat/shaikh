@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.alert{
+    width: 200px;
+    height: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin: auto;
+    position: relative;
+    bottom: 80px;
+    background-color: gainsboro;
+    display: none;
+}
+
